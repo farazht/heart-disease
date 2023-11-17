@@ -1,5 +1,6 @@
 # coronary-heart-disease
-Python data project to identify coronary heart disease using NumPy, Matplotlib, and scikit-learn.
+Predictive data analysis report in Python identifying coronary heart disease using the health data from 1000+ patients.
+Libraries used include NumPy, Matplotlib, and scikit-learn.
 
 We performed a predictive data analysis to predict the presence of heart disease using the health data collected for over 1000+ patients.
 The dataset is from UC Irvine Machine Learning Repository that has 14 health attributes from patients, including their heart disease diagnosis. Approximately half of the patients were diagnosed with heart disease.
