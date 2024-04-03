@@ -1,4 +1,5 @@
-# Identifying Coronary Heart Disease
+# Identifying Coronary Heart Disease (@ Calgary Public Library Project-based Hackathon)
+## Faraz Hosseinian-Tehrani and Ryan Saloff
 
 🔎 Predictive data analysis report in **Python** identifying coronary heart disease using the health data from 1000+ patients.
 Libraries used include NumPy, Matplotlib, and scikit-learn.
