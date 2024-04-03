@@ -1,4 +1,5 @@
-# coronary-heart-disease
+# Identifying Coronary Heart Disease
+
 Predictive data analysis report in Python identifying coronary heart disease using the health data from 1000+ patients.
 Libraries used include NumPy, Matplotlib, and scikit-learn.
 
